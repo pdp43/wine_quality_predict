@@ -3,7 +3,7 @@
 ## Dataset
 The Wine Quality Dataset  contains the following columns:
 ### Features:
-Fixed acidity
+- Fixed acidity
 - Volatile acidity
 - Citric acid
 - Residual sugar

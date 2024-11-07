@@ -25,11 +25,13 @@ This project involves:
 - Model Training: Using machine learning algorithms to predict wine quality. Various models such as Decision Trees, Random Forest, and Gradient Boosting were explored.
 - Evaluation: Assessing model performance using metrics like accuracy, precision, recall, and F1-score.
 
-#Getting Started
+# Getting Started
 To run the code in this project, you’ll need:
 - Python 3.x
 - Jupyter Notebook (optional)
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+
+
 
 
 
